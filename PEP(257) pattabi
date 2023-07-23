@@ -1,0 +1,3 @@
+def friends(subject,marks,grade="en"):
+  print(subject,marks,grade)
+print(friends("English","sixty","B"))
